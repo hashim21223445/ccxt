@@ -25,7 +25,7 @@
     "ololog": "^1.1.146"
   },
   "devDependencies": {
-    "typescript": "~3.5.0",
+    "typescript": "~5.7.2",
     "@types/node": "^10.0.3"
   },
   "engines": {
